@@ -7,7 +7,7 @@ import requests
 import urllib
 import re
 
-def calculateInflation(start_date, end_date, amount):
+def calculate_inflation(start_date, end_date, amount):
 	"""
 	Returns the amount (in dollars) adjusted for inflation.
 	The amount parameter is the amount (in dollars) on the start_date
