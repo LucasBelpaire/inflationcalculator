@@ -1,7 +1,6 @@
 # Author: Lucas Belpaire
 # API: www.statbureau.org
 # little script to calculate inflation
-# arguments for the script are: start_date, end_date, amount
 #!/usr/bin/env
 import requests
 import urllib
